@@ -3,11 +3,21 @@
 # Amazon Clone
 
 An Amazon clone web application built with Node.js, React.js, TypeScript, Redux, and MongoDB.
+
+
 <br/>
+
+
 <img src="https://user-images.githubusercontent.com/107037694/277398516-5fa55ec9-693b-4d81-a20d-e8769b915bef.jpg"/>
+
+
 <br/>
+
 <img src="https://user-images.githubusercontent.com/107037694/277398614-bf3906d5-a55d-4537-9b8b-bb2a1ad27b30.jpg"/>
+
 <br/>
+
+
 <img src="https://user-images.githubusercontent.com/107037694/277398630-79658816-7efb-41a4-a154-b6c02d7c0195.jpg"/>
 ## Introduction
 
